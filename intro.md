@@ -9,3 +9,6 @@ you are a knight, and you are traveling through the land of the dead. Their seem
 # What do you do?
 
 1. [Explore the canyon](canyon.md)
+
+2. [Follow the river](river.md)
+
